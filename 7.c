@@ -422,7 +422,6 @@ int main() {
                 free(tasks);
                 return 0;
             }
-
             default: {
                 printf("Unknown command!\n");
                 break;
